@@ -31,12 +31,7 @@ def adding
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-hash = {"key1" => "value1"}
-hash["key2"] = "value2"
 
-
-hash
-#=> {"key1" => "value1", "key2" => "value2"}
 shipping_manifest["muskets"] = 2
 shipping_manifest["gun_powder"] = 4
   
